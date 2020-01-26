@@ -8,4 +8,4 @@ https://www.machinehack.com/course/zs-hiring-hackathon-patient-drug-switch-predi
 
 
 2. Run "python Model.py"
-### The Model training Model training takes ~45minutes to complete.
+### The Model training takes ~45minutes to complete.
